@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    position: fixed;
+    right: 50%;
+    background-color:whitesmoke;
+}
+
+.calculadora{
+    width: 200px;
+    height: 200px;
+    
+}
+.body{
+    background-color: cornflowerblue;
+}
+
+.btn{
+    font-size: 2rem;
+    width: 100%;
+}
+.display{
+    width: 98%;
+    height: 30px;
+    font-size: 1.5rem;
+}
